@@ -8,7 +8,7 @@ For a complete description of the algorithm, please see our paper:
 
 ```
 @inproceedings{SVDupdates:2021,
-  title={Concentration bounds for CVaR estimation: The cases of light-tailed and heavy-tailed distributions.},
+  title={Projection techniques to update the truncated SVDof evolving matrices with applications.},
   author={Kalantzis, Vassilis and Kollias, Georgios and Ubaru, Shashanka and Nikolakopoulos, Athanasios N and Horesh, Lior and Clarkson, Kenneth L},
   booktitle={ICML},
   pages={},
